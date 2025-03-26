@@ -1,6 +1,10 @@
 # Concepts that may come in handy
 * **retrospective crop yield mapping**: Retrospective crop yield mapping refers to the process of estimating past crop yields using remote sensing data, historical crop records, and/or environmental variables.
 * **phenology**: when and how crops grow during the season.
+* **rainfed agricultural systems:** farming systems that rely solely on natural rainfall to meet the water requirements of crops, without any supplemental irrigation.
+  **groundwater yield subsidy:** defined as the increase in crop yields resulting from both direct and indirect groundwater contributions compared to free drainage conditions where the water table is too deep to influence yield outcomes.
+# Statistics on crop yields:
+* In the United States, drought and excess rainfall are the largest causes of crop loss, together accounting for over 70% of insurance indemnities between 2001 and 2016 (Deines, 2016).
 # Yield monitor technology
 * **Hardware**: High-arcuracy GPS and on-board sensors to estimate grain weight and moistures to produce yield map (Deines, 2021)
 # Problem in crop yields mapping
